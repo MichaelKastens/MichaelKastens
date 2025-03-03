@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, My name is Michael Kastens and I am currently workling towards becoming a software engineer!
+Im currently learning to use Visual Studio Code as well as running commands in my terminal.
+Im looking to collaborate on the entirety of our school work.
+Im looking for help navigating this amazing language of code. 
+Ask me about my son!
+You can contact me through email or text MichaelKastens@yahoo.com or 513-678-1355
+30 years old white Male 
+A fun fact about me is that I used to love to skateboard and I like to bake cheesecakes. 
