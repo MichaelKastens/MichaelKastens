@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, My name is Michael Kastens and I am currently workling towards becoming a software engineer!
+Hello, My name is Michael Kastens and I am currently working towards becoming a software engineer!
 Im currently learning to use Visual Studio Code as well as running commands in my terminal.
 Im looking to collaborate on the entirety of our school work.
 Im looking for help navigating this amazing language of code. 
