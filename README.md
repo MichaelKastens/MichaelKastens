@@ -20,5 +20,4 @@ Im looking to collaborate on the entirety of our school work.
 Im looking for help navigating this amazing language of code. 
 Ask me about my son!
 You can contact me through email or text MichaelKastens@yahoo.com or 513-678-1355
-30 years old white Male 
 A fun fact about me is that I used to love to skateboard and I like to bake cheesecakes. 
